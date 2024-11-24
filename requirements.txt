@@ -1,0 +1,11 @@
+
+numpy
+matplotlib
+awkward
+uproot
+os
+vector
+requests
+json
+pandas
+numba
