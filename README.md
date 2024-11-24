@@ -15,7 +15,7 @@ This repository provides scripts and tools to streamline the analysis of high-en
 
 1. **Clone the repository**:
    ```bash
-   git clone 
+   git clone https://github.com/Mariaggomes/ZinvWidth.git
    ```
 
 2. **Install the required dependencies**:
